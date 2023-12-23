@@ -1,7 +1,5 @@
 
-You can use the [editor on GitHub](https://github.com/mingleiR/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-All the codes and scripts for sequence analyses is available below. The step-by-step procedures, including metagenomic assembly, the marker gene-based taxonomic profiling analysis, genome-centric analysis, functional annotation  and gene enrichment analyses are listed.
+The step-by-step procedures, including metagenomic assembly, the marker gene-based taxonomic profiling analysis, genome-centric analysis, functional annotation  and gene enrichment analyses are listed.
 
 1. Sequence analysis
   -  Clean metagenomic reads
